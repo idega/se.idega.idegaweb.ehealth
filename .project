@@ -8,6 +8,7 @@
     <project>com.idega.core</project>
     <project>se.idega.util</project>
     <project>se.idega.idegaweb.commune</project>
+    <project>com.idega.user</project>
   </projects>
   <buildSpec>
     <buildCommand>
